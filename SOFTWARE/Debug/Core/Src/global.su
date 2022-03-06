@@ -1,0 +1,6 @@
+global.c:18:6:set_do	24	static
+global.c:51:6:set_dac	24	static
+global.c:78:6:ADC_config_chanel	32	static
+global.c:97:10:ADC_read_1_chanel	24	static
+global.c:115:6:ADC_Send	32	static
+global.c:146:6:Uart_send	32	static

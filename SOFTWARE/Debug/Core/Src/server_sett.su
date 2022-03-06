@@ -1,0 +1,8 @@
+server_sett.c:25:10:W5500_Init	40	static
+server_sett.c:65:8:wizchip_select	8	static
+server_sett.c:69:8:wizchip_deselect	8	static
+server_sett.c:73:10:W5500_rxtx	40	static
+server_sett.c:79:8:wizchip_write	16	static
+server_sett.c:83:10:wizchip_read	8	static
+server_sett.c:87:7:network_init	16	static
+server_sett.c:94:7:HTTP_reset	16	static
